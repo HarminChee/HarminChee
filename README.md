@@ -1,52 +1,82 @@
-# Haomin Qi
+<div align="center">
 
-Machine learning, retrieval systems, NLP, recommender systems, and applied data products.
+# Haomin (Harmin) Qi
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
-[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=111)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+**M.S. in Electrical and Computer Engineering @ UC San Diego**  
+**LLM4Code · AI4SE · Code Agents · Agent Systems · Machine Learning**
 
-## What I Work On
+[![Website](https://img.shields.io/badge/Website-harminchee.github.io-0B6E69?style=for-the-badge)](https://harminchee.github.io/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-1A73E8?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=GgVymP0AAAAJ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-harminchee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harminchee/)
+[![X](https://img.shields.io/badge/X-HarminChee789-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/HarminChee789)
+[![CV](https://img.shields.io/badge/CV-PDF-8A2BE2?style=for-the-badge)](https://harminchee.github.io/data/CV.pdf)
 
-- Retrieval-augmented generation and applied information retrieval.
-- NLP models, transformer implementations, and evaluation workflows.
-- Recommendation, ranking, prediction, and feature engineering.
-- Signal/image processing projects with reproducible experiments.
-- Web/data products that turn research prototypes into usable systems.
+</div>
 
-## Featured Projects
+## About Me
 
-| Project | Focus |
+I work on **LLM4Code, AI for Software Engineering, code agents, agentic systems, and machine learning**. My current direction is building retrieval-augmented and agentic workflows that can reason over code, repair programs, support verification, and turn research prototypes into reproducible engineering systems.
+
+I am especially interested in the intersection of:
+
+| Area | What I Care About |
 | --- | --- |
-| [ucsd-course-materials](https://github.com/HarminChee/ucsd-course-materials) | UCSD graduate coursework archive across NLP, recommender systems, sparse recovery, image processing, and course project reports |
-| [IoT-RAG-ABA](https://github.com/1314spb/IoT-RAG-ABA) | RAG-oriented applied AI workflow around IoT and domain-specific retrieval |
-| [AWSG-FITE-Web](https://github.com/HarminChee/AWSG-FITE-Web) | CUHK AWSG Lab website and frontend engineering work |
+| **LLM4Code** | code reasoning, program repair, evaluation, repository-level context |
+| **AI4SE** | automation for testing, debugging, verification, and developer workflows |
+| **Code Agents** | tool-using agents, iterative repair, long-context planning, execution feedback |
+| **Agent Systems** | retrieval, orchestration, memory, workflow reliability, human-in-the-loop systems |
+| **Machine Learning** | deep learning, representation learning, data-centric evaluation, applied ML |
+
+## Achievements
+
+- **ISQED 2026:** *VeriRAG: A Retrieval-Augmented Framework for Automated RTL Testability Repair* accepted.
+- **ICML 2025:** paper accepted.
+- **IJCAI 2025:** paper accepted.
+- **ML4H Findings 2025:** paper accepted.
+- **TRITB 2025:** paper accepted.
+- Started the **M.S. program in Electrical and Computer Engineering at UC San Diego**.
+- Built and open-sourced structured course and project archives to make graduate-level learning materials easier to reuse.
+
+## Featured Work
+
+| Project | Direction | Why It Matters |
+| --- | --- | --- |
+| [**VeriRAG**](https://github.com/HarminChee/VeriRAG) | LLM4Code, AI4SE, RAG, RTL repair | Retrieval-augmented framework for automated RTL testability repair and hardware-oriented code reasoning. |
+| [**ucsd-course-materials**](https://github.com/HarminChee/ucsd-course-materials) | ML, NLP, systems coursework | Organized UCSD graduate course archive with assignments, reports, slides, and project material. |
+| [**AWSG-FITE-Web**](https://github.com/HarminChee/AWSG-FITE-Web) | research lab web engineering | Frontend and content infrastructure for presenting research, people, and lab activity. |
+| [**IoT-RAG-ABA**](https://github.com/1314spb/IoT-RAG-ABA) | RAG, applied AI | Domain-specific retrieval workflow for applied AI systems. |
+
+## Current Focus
+
+- Building **agentic code-repair systems** that combine retrieval, execution feedback, and structured reasoning.
+- Applying **RAG to verification and repair**, especially for RTL and hardware design workflows.
+- Designing **AI4SE evaluation pipelines** where benchmarks, failure cases, and metrics are explicit.
+- Turning research code into **clean public repositories** with usable READMEs, reproducible structure, and clear assumptions.
 
 ## Technical Stack
 
-**ML / AI:** PyTorch, scikit-learn, transformers, retrieval, ranking, RAG, evaluation  
-**Data:** pandas, NumPy, feature engineering, time-aware validation, experiment logging  
-**Systems:** Python, JavaScript, React, Git, reproducible project structure  
-**Domains:** NLP, recommender systems, signal recovery, image processing, data mining
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=111111)
+![RAG](https://img.shields.io/badge/RAG-0B6E69?style=flat-square)
+![LLM Agents](https://img.shields.io/badge/LLM%20Agents-111111?style=flat-square)
+![Verilog](https://img.shields.io/badge/Verilog-7A3E9D?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-## Engineering Style
+**Research / ML:** PyTorch, transformers, retrieval, RAG, evaluation, experiment design  
+**AI4SE / Agents:** code repair, tool use, execution feedback, benchmark construction, repository analysis  
+**Engineering:** Python, JavaScript, React, Git, reproducible project structure, documentation  
+**Domains:** LLM4Code, AI4SE, code agents, RTL repair, applied ML, information retrieval
 
-- Start with a measurable baseline.
-- Keep data splits, metrics, and assumptions explicit.
-- Make experiments reproducible before making them complex.
-- Prefer readable implementations over opaque demos.
-- Turn course and research work into structured public references.
+## Research & Engineering Principles
 
-## GitHub Snapshot
-
-![Haomin's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarminChee&show_icons=true&hide_title=true&hide_border=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarminChee&layout=compact&hide_border=true)
+- Make the problem setting explicit before optimizing the model.
+- Treat evaluation as a first-class artifact, not an afterthought.
+- Use retrieval and tools when the task depends on external context.
+- Prefer systems that can be inspected, reproduced, and improved by other researchers.
+- Publish clean references so future students and builders can move faster.
 
 ## Open Source Direction
 
-I am publishing cleaned and organized versions of coursework and project archives so future students can learn from concrete implementations, reports, and experiment structure.
-
-Use my coursework repositories as references for learning and project organization, not as direct submission sources.
+I am gradually organizing my research, coursework, and engineering projects into public repositories around **LLM4Code, AI4SE, code agents, RAG, and machine learning**. The goal is to make each repository useful as a concrete reference: clear structure, visible assumptions, runnable code when possible, and enough context for future students to learn from it responsibly.
